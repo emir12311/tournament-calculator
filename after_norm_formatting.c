@@ -69,8 +69,6 @@ void	calculate_sum_average(float *scores, int player_count, FILE *score_file)
 int	main(void)
 {
 	int		player_count;
-	float	sum;
-	float	avg;
 	float	*scores;
 	FILE	*score_file;
 

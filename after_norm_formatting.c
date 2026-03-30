@@ -15,7 +15,7 @@
 
 int	get_player_count(FILE *score_file)
 {
-	int			player_count;
+	int		player_count;
 
 	printf("How many players are in the tournament?: ");
 	scanf("%d", &player_count);
